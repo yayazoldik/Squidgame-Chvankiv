@@ -6,10 +6,10 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-6691561290175172/4759095092",
-      "admob_interstitial_id" : "ca-app-pub-6691561290175172/3390173106",
-      "admob_native_id" : "ca-app-pub-6691561290175172/1346942620",
-      "admob_rewarded_id" : "ca-app-pub-6691561290175172/3178899046",
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
+      "admob_native_id" : "",
+      "admob_rewarded_id" : "",
       "admob_unit_id" : ""
     },
     "appodeal" : {
