@@ -6,10 +6,10 @@
       "adcolony_rewarded_id" : ""
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-6927958060695168/8216044244",
-      "admob_interstitial_id" : "ca-app-pub-6927958060695168/5710489774",
-      "admob_native_id" : "ca-app-pub-6927958060695168/3084326432",
-      "admob_rewarded_id" : "ca-app-pub-6927958060695168/4317802466",
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
+      "admob_native_id" : "",
+      "admob_rewarded_id" : "",
       "admob_unit_id" : ""
     },
     "appodeal" : {
@@ -34,10 +34,10 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : false,
-      "update_action" : "https://iphone12pro.hijera.com/",
+      "enable_update_closed" : true,
+      "update_action" : "",
       "update_msg" : "update your app for grt all favorite now",
-      "update_state" : true,
+      "update_state" : false,
       "update_title" : "update your app"
     },
     "app" : {
