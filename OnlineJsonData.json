@@ -47,26 +47,26 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://cdn.vox-cdn.com/thumbor/vmRga6mG5sihYrHyZ43WswwtyIU=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22911132/EN_SQdGame_Main_PlayGround_Horizontal_RGB_PRE.jpeg",
       "state" : "free",
       "title" : "This is a guide for Tony play Games",
-      "description" : "Tony play is best game football for now you can play with your friends all the world ",
+      "description" : "What is Squid Game ?  ",
       "written" : "Test written 0 <br>My written"
     },
     {
       "id" : 1,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://cdn.mos.cms.futurecdn.net/CtmZwtVLvBapBYRKf47cH5.jpg",
       "state" : "free",
-      "title" : "staduim",
-      "description" : "Test description 1",
+      "title" : "Squid Game is : ",
+      "description" : "is a South Korean survival drama television series on Netflix created by Hwang Dong-hyuk, who wrote and directed all nine episodes. Its cast includes Lee Jung-jae, Park Hae-soo, Wi Ha-joon, Jung Ho-yeon, O Yeong-su, Heo Sung-tae, Anupam Tripathi, and Kim Joo-ryoung.",
       "written" : "Test written 1"
     },
     {
       "id" : 2,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://bitcoinist.com/wp-content/uploads/2021/11/Squid-Game-1.jpeg",
       "state" : "free",
-      "title" : "Enjoy with the view",
-      "description" : "Test description 2",
+      "title" : "Continue reading : ",
+      "description" : "The series revolves around a contest where 456 players in deep financial debt put their lives at risk to play a series of children's games for the chance to win a ₩45.6 billion[a] prize. The title of the series draws from a similarly named Korean children's game. Hwang had conceived of the idea based on his own economic struggles early in life as well as the class disparity in South Korea. Though he had initially written it in 2009, he was unable to find a production company to fund the idea until Netflix took an interest around 2019 as part of their drive to expand their foreign programming offerings.",
       "written" : "Test written 2"
     },
     {
@@ -79,10 +79,10 @@
     },
     {
       "id" : 4,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/squidgame-unit-103-1195-1632510930.jpg?crop=1xw:0.7498295841854125xh;center,top&resize=1200:*",
       "state" : "free",
-      "title" : "Great match waiting for you",
-      "description" : "Test description 4",
+      "title" : ":",
+      "description" : "Squid Game was released worldwide on September 17, 2021, to critical acclaim and international attention. Attracting more than 142 million member households during its first four weeks from launch, it is Netflix's most-watched series to date, surpassing 2020's Bridgerton.",
       "written" : "Test written 4"
     },
     {
