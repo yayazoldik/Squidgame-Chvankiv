@@ -21,23 +21,23 @@
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "",
-    "mode_ads_interstitial" : "",
+    "mode_ads_banner" : "unity",
+    "mode_ads_interstitial" : "unity",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "",
+    "mode_ads_rewarded" : "unity",
     "mode_button_ads_action" : "0",
     "unity" : {
-      "unity_app_id" : "",
-      "unity_banner_id" : "",
-      "unity_interstitial_id" : "",
-      "unity_rewarded_id" : ""
+      "unity_app_id" : "4449467",
+      "unity_banner_id" : "Banner_Android",
+      "unity_interstitial_id" : "Interstitial_Android",
+      "unity_rewarded_id" : "Rewarded_Android"
     },
     "update" : {
-      "enable_update_closed" : true,
-      "update_action" : " ",
+      "enable_update_closed" : false,
+      "update_action" : "https://smrturl.co/c9e9e13",
       "update_msg" : "المرجو تحميل التحديث الأخير",
-      "update_state" : false,
+      "update_state" : true,
       "update_title" : "مرحبا بك في تطبيق YACINE TV لمشاهدة المباريات"
     },
     "app" : {
