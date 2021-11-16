@@ -21,11 +21,11 @@
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "",
+    "mode_ads_interstitial" : "",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "admob",
+    "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
@@ -35,10 +35,10 @@
     },
     "update" : {
       "enable_update_closed" : true,
-      "update_action" : "",
-      "update_msg" : "update your app for grt all favorite now",
+      "update_action" : " ",
+      "update_msg" : "المرجو تحميل التحديث الأخير",
       "update_state" : false,
-      "update_title" : "update your app"
+      "update_title" : "مرحبا بك في تطبيق YACINE TV لمشاهدة المباريات"
     },
     "app" : {
       "mode_off_version" : "0"
@@ -47,42 +47,42 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://cdn.vox-cdn.com/thumbor/vmRga6mG5sihYrHyZ43WswwtyIU=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22911132/EN_SQdGame_Main_PlayGround_Horizontal_RGB_PRE.jpeg",
+      "imageURL" : "https://mufahras.com/wp-content/uploads/2018/12/h_52666750_914115.jpg",
       "state" : "free",
-      "title" : "This is a guide for Tony play Games",
-      "description" : "What is Squid Game ?  ",
-      "written" : "Test written 0 <br>My written"
+      "title" : "تاريخ كرة القدم",
+      "description" : "(football). كلمة كر القدم فوتبول قد طُبقت على كرة القدم راجبي، كرة القدم الأميركية، كرة القدم على طريقة القواعد الأسترالية، كرة القدم المتعلقة بغالي، كرة القدم الكندية، والكثير من أنواع كرة القدي ال ",
+      "written" : "Test written 0"
     },
     {
       "id" : 1,
-      "imageURL" : "https://cdn.mos.cms.futurecdn.net/CtmZwtVLvBapBYRKf47cH5.jpg",
+      "imageURL" : "https://i.imgur.com/66L763u.jpg",
       "state" : "free",
-      "title" : "Squid Game is : ",
-      "description" : "is a South Korean survival drama television series on Netflix created by Hwang Dong-hyuk, who wrote and directed all nine episodes. Its cast includes Lee Jung-jae, Park Hae-soo, Wi Ha-joon, Jung Ho-yeon, O Yeong-su, Heo Sung-tae, Anupam Tripathi, and Kim Joo-ryoung.",
+      "title" : "Yassine TV est une application gratuit",
+      "description" : "Test description 1",
       "written" : "Test written 1"
     },
     {
       "id" : 2,
-      "imageURL" : "https://bitcoinist.com/wp-content/uploads/2021/11/Squid-Game-1.jpeg",
+      "imageURL" : "https://modo3.com/thumbs/fit630x300/75492/1469875502/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D9%82%D8%AF%D9%85.jpg",
       "state" : "free",
-      "title" : "Continue reading : ",
-      "description" : "The series revolves around a contest where 456 players in deep financial debt put their lives at risk to play a series of children's games for the chance to win a ₩45.6 billion[a] prize. The title of the series draws from a similarly named Korean children's game. Hwang had conceived of the idea based on his own economic struggles early in life as well as the class disparity in South Korea. Though he had initially written it in 2009, he was unable to find a production company to fund the idea until Netflix took an interest around 2019 as part of their drive to expand their foreign programming offerings.",
+      "title" : "أهم المحطات في تاريخ كرة القدم",
+      "description" : "Test description 2",
       "written" : "Test written 2"
     },
     {
       "id" : 3,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
-      "state" : "free",
+      "state" : "vip",
       "title" : "Play anytime you want with any one you want",
       "description" : "Test description 3",
       "written" : "Test written 3"
     },
     {
       "id" : 4,
-      "imageURL" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/squidgame-unit-103-1195-1632510930.jpg?crop=1xw:0.7498295841854125xh;center,top&resize=1200:*",
-      "state" : "free",
-      "title" : ":",
-      "description" : "Squid Game was released worldwide on September 17, 2021, to critical acclaim and international attention. Attracting more than 142 million member households during its first four weeks from launch, it is Netflix's most-watched series to date, surpassing 2020's Bridgerton.",
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "state" : "vip",
+      "title" : "Great match waiting for you",
+      "description" : "Test description 4",
       "written" : "Test written 4"
     },
     {
