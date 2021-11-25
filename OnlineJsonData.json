@@ -34,10 +34,10 @@
       "unity_rewarded_id" : "Rewarded_Android"
     },
     "update" : {
-      "enable_update_closed" : true,
+      "enable_update_closed" : false,
       "update_action" : " https://smrturl .co/c9e9e13",
       "update_msg" : "المرجو تحميل التحديث الأخير",
-      "update_state" : false,
+      "update_state" : true,
       "update_title" : "مرحبا بك في تطبيق YACINE TV لمشاهدة المباريات"
     },
     "app" : {
